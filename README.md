@@ -47,7 +47,7 @@ Each patient’s record was transformed into a structured feature vector using d
 
 ---
 
-## uthor
+## Author
 **Buddhika Patalee**  
 Ph.D. Agricultural Economics | Data Scientist  
 [Website](https://www.buddhikapatalee.com) • [LinkedIn](https://www.linkedin.com/in/buddhika-patalee-phd/)  
