@@ -45,5 +45,12 @@ Each patient’s record was transformed into a structured feature vector using d
 4. Run all cells to reproduce descriptive statistics, feature generation, and model training.  
 
 
+---
+
+## uthor
+**Buddhika Patalee**  
+Ph.D. Agricultural Economics | Data Scientist  
+[Website](https://www.buddhikapatalee.com) • [LinkedIn](https://www.linkedin.com/in/buddhika-patalee-phd/)  
+
 
 
